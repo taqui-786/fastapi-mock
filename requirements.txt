@@ -1,0 +1,10 @@
+fastapi>=0.136.0
+uvicorn[standard]>=0.44.0
+aiosqlite>=0.22.1
+asyncpg>=0.31.0
+fastapi-users[sqlalchemy]>=15.0.5
+imagekitio>=5.4.0
+langchain>=1.2.15
+langchain-nvidia-ai-endpoints>=1.2.1
+python-dotenv>=1.2.2
+requests>=2.33.1
